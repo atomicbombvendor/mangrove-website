@@ -1,0 +1,5 @@
+com\mangrove\api\dao\UserDao.class
+com\mangrove\api\Application.class
+com\mangrove\api\model\User.class
+com\mangrove\api\service\UserService.class
+com\mangrove\api\controller\UserController.class

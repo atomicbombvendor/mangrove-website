@@ -1,0 +1,23 @@
+{
+  "name": "mangrove-app",
+  "version": "1.0.0",
+  "description": "mangrove-app",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "npm mangrove"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanfang0907/mangrove-website.git"
+  },
+  "keywords": [
+    "npm",
+    "mangrove"
+  ],
+  "author": "jack zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuanfang0907/mangrove-website/issues"
+  },
+  "homepage": "https://github.com/yuanfang0907/mangrove-website#readme"
+}
